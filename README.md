@@ -1,15 +1,30 @@
 # Hi, I'm Merlin 👋
 
-Aspiring Data Analyst with experience in Excel, SQL, and Power BI.
+Data Analyst focused on transforming data into actionable business insights.
 
-🔍 Currently building analytics projects  
-📊 Focused on business-driven insights  
+📊 Experienced in Excel, SQL, and Power BI  
+🔍 Currently building real-world analytics projects  
+📈 Passionate about data-driven decision making  
 🌍 Open to opportunities (Remote | Bangalore | UK)
 
-## 🛠 Skills
-- Excel
-- SQL
-- Power BI
-- Data Cleaning
-- Data Visualization
-- Analytical Thinking
+---
+
+## 🛠 Technical Skills
+
+- Excel (Pivot Tables, Power Query, Dashboards)
+- SQL (Joins, Aggregations, Subqueries)
+- Power BI (Data Modeling, DAX Basics, Visualization)
+- Data Cleaning & Transformation
+- Business Insight Communication
+
+---
+
+## 📁 Featured Projects
+
+🔹 Excel Salary Dashboard  
+🔹 Job Market Analysis  
+🔹 (Upcoming) Power BI Sales Dashboard
+
+---
+
+Thanks for visiting my profile!
