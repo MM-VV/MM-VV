@@ -21,9 +21,10 @@ Data Analyst focused on transforming data into actionable business insights.
 
 ## 📁 Featured Projects
 
-🔹 Excel Salary Dashboard  
-🔹 Job Market Analysis  
-🔹 (Upcoming) Power BI Sales Dashboard
+🔹 Power BI Data Jobs Dashboard  
+🔹 IPL Data Analysis Project  
+🔹 Excel Data Jobs Analysis & Dashboard  
+🔹 Machine Learning Project 
 
 ---
 
